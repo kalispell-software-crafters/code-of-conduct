@@ -22,22 +22,22 @@ Harassment includes, but is not limited to:
 
 * Verbal comments that reinforce social structures of domination (related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion).
 * Sexual images in public spaces
-* Deliberate intimidation, stalking, or following 
+* Deliberate intimidation, stalking, or following
 * Harassing photography or recording
 * Sustained disruption of talks or other events
 * Inappropriate physical contact
 * Unwelcome sexual attention
-* Advocating for, or encouraging, any of the above behaviour 
+* Advocating for, or encouraging, any of the above behavior
 
 ### Enforcement
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference (with no refund if applicable). 
+If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference (with no refund if applicable). 
 
-Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. 
+Event organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
-We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too! 
+We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
 
 ### Reporting
 
