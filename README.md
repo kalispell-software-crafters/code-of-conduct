@@ -2,7 +2,7 @@
 
 Below are several versions of our code of conduct. These range from short, medium, and long versions which can be used for various media. The reason this is important is because we currently have a great community of people interested in software development and we want to keep it that way as we grow. We want to have a welcoming community for everyone, of all backgrounds, and having a code of conduct, and enforcing it, helps to ensure that we all have a safe and fun experience!
 
-So, everyone please be mindful and respectful of others as they will be of you. Please take a moment to review the code of conduct and become familiar with it. This applies to all of our events and online communities.
+So, everyone please be mindful and respectful of others as they will be of you. Please take a moment to review the code of conduct and become familiar with it. This applies to all of our events and online communities. When there is a report we will take it seriously and not allow for a "missing stair" situation, as explained on the linked page: https://geekfeminism.wikia.org/wiki/Missing_stair
 
 Thank you.
 
