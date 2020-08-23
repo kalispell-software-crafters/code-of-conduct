@@ -52,6 +52,12 @@ Kalispell Software Crafters prioritizes marginalized people's safety over privil
 * Communicating in a 'tone' you don't find congenial.
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
+The above sections focus on harassment. The following section describes other actions that are not allowed within our communities or at our events.
+
+* Solicitation
+* Advertisements
+* Excessive strong language (curse words/swearing)
+
 ### Enforcement
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
