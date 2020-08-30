@@ -60,9 +60,9 @@ The above sections focus on harassment. The following section describes other ac
 
 ### Enforcement
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing or unacceptable behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference, event or online community (with no refund if applicable).
+If a participant engages in harassing or unacceptable behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference, event or online community (with no refund if applicable).
 
 Event organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
@@ -101,9 +101,9 @@ Our team will be happy to help you contact venue security, local law enforcement
 
 ### Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing or unacceptable behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the event organizer(s) and leadership team member(s) may take any action they deem appropriate, up to and including expulsion from all Kalispell Software Crafters spaces and identification of the participant as a harasser to other Kalispell Software Crafters members or the general public.
+If a participant engages in harassing or unacceptable behavior, the event organizer(s) and leadership team member(s) may take any action they deem appropriate, up to and including expulsion from all Kalispell Software Crafters spaces and identification of the participant as a harasser or agitator to other Kalispell Software Crafters members or the general public.
 
 ### Resources
 
