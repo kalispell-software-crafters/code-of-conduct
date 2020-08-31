@@ -32,7 +32,7 @@ Harassment includes, but is not limited to:
 * Deliberate misgendering or use of 'dead' or rejected names.
 * Gratuitous or off-topic sexual images or behavior in spaces where they're not appropriate (such as public spaces).
 * Inappropriate physical contact and simulated physical contact (e.g. textual descriptions like "*hug*" or "*backrub*") without consent or after a request to stop.
-* Threats of violence.
+* Threats of violence (including encouraging a person to commit self-harm).
 * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
 * Deliberate intimidation.
 * Stalking or following.
@@ -42,6 +42,7 @@ Harassment includes, but is not limited to:
 * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
 * Continued one-on-one communication after requests to cease.
 * Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
+* Posting, or threatening to post, people's personally identifying information ("doxxing") online.
 * Publication of non-harassing private communication.
 * Advocating for, or encouraging, any of the above behavior
 
@@ -57,6 +58,8 @@ The above sections focus on harassment. The following section describes other ac
 * Solicitation
 * Advertisements
 * Excessive strong language (curse words/swearing)
+
+In general do not use obscene, lewd, lascivious, filthy, or excessively violent language. Do not harass, insult, taunt, provoke, demean, or personally attack other members. Be friendly even if others are not.
 
 ### Enforcement
 
