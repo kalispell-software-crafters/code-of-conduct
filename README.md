@@ -58,6 +58,7 @@ The above sections focus on harassment. The following section describes other ac
 * Solicitation
 * Advertisements
 * Excessive strong language (curse words/swearing)
+* Posting spam to our online communities including the Meetup page
 
 In general do not use obscene, lewd, lascivious, filthy, or excessively violent language. Do not harass, insult, taunt, provoke, demean, or personally attack other members. Be friendly even if others are not.
 
